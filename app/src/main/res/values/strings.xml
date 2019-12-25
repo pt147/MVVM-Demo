@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVM Basic Strcture</string>
+    <string name="e_no_internet">Check your internet connection.</string>
+
+
+    <!--Integers-->
+    <integer name="divider_padding">0</integer>
+    <integer name="minLineOnCreateExNYoga">5</integer>
+    <integer name="slide_animation_duration">250</integer>
+
+</resources>
